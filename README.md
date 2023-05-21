@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Mohammed! 👋
 
-<!--
-**iearul/iearul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Full-Stack Developer with expertise in TypeScript, ReactJS, PHP and RESTful APIs. I enjoy building scalable web applications and exploring new technologies. 
 
-Here are some ideas to get you started:
+🌱 **About Me:**
+- 🎓 M.Sc. in Computer Simulation in Science
+- 🏢 Currently working as a Full-Stack Developer at Bauer AG
+- ⚙️ Expertise: TypeScript, ReactJS, PHP, Git, MySQL
+- 💡 Interested in software engineering, and open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 **Contact Me:**
+- 📧 Email: iearul.abid@gmail.com
+- 💼 LinkedIn: [Md Iearulislam](https://www.linkedin.com/in/md-iearulislam/)
+- 🌐 Website: [iearul.xyz](https://www.iearul.xyz)
+
+Feel free to explore my repositories and collaborate on exciting projects. Let's connect and create something amazing together!
+
