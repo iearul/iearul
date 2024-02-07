@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with expertise in TypeS
 
 🌱 **About Me:**
 - 🎓 B.Sc. in Computer Science and Engineering
-- 🏢 Currently working as a Full-Stack Developer at Bauer AG
+- 🏢 Currently working as a Full-Stack Developer at Weezly GmbH
 - ⚙️ Expertise: TypeScript, ReactJS, PHP, Git, MySQL
 - 💡 Interested in software engineering, and open-source projects
 
