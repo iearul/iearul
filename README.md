@@ -27,7 +27,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
-# Hello, I'm Mohammed! 👋
+# Hello, I'm Muhammad! 👋
 
 Welcome to my GitHub profile! I'm a Full-Stack Developer with expertise in TypeScript, ReactJS, PHP and RESTful APIs. I enjoy building scalable web applications and exploring new technologies. 
 
